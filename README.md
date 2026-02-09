@@ -1,6 +1,6 @@
 # Hi, I'm Manu 👋
 
-I'm a 5th semester Computer Science and Technology Engineering student at Tecnológico de Monterrey, passionate about building software solutions that make a difference.
+I'm a 6th semester Computer Science and Technology Engineering student at Tecnológico de Monterrey, passionate about building software solutions that make a difference.
 
 ## About Me
 
