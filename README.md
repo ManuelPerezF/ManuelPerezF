@@ -1,4 +1,4 @@
-# Manu Pérez
+# Manuel Pérez
 
 CS & Technology Engineering @ Tec de Monterrey · 6th semester
 
