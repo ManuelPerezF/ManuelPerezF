@@ -1,6 +1,6 @@
 # Manuel Pérez
 
-CS & Technology Engineering @ Tec de Monterrey · 6th semester
+CS & Technology Engineering @ Tec de Monterrey · 7th semester
 
 ---
 
